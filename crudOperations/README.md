@@ -92,7 +92,7 @@ Before running the app, make sure you have the following installed:
 2. Navigate to the project folder:
 
     ```bash
-    cd react-native-user-management
+    cd CRUD-operations
     ```
 
 3. Install the dependencies:
